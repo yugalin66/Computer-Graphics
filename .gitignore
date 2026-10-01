@@ -1,0 +1,8 @@
+*.obj
+*.mp4
+*.bmp
+*.mtl
+*.stl
+*.zip
+build/
+cmake/
